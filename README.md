@@ -28,6 +28,7 @@ Accidental drug overdoses are the most common type of drug-related death, with 6
 - Finding the locations where fentanyl is most common in tox screens could indicate problem areas to public health officials as well as law enforcement. 
 
 - Higher percentage tox containing trace amounts of fentanyl = possible import/activity hotspots
+
 **Visualization 1 - Heat Map**
   ![image](https://github.com/user-attachments/assets/6462d997-73d7-4739-a12c-dcff8de45e4f)
 
